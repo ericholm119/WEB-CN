@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nav>
+  <credit>
+    <domain>4</domain>
+    <webOrderNo>1600005959</webOrderNo>
+    <webCreditNo>1600000035</webCreditNo>
+    <orderType>WEB</orderType>
+    <orderDate>2018-02-15</orderDate>
+    <currencyCode>EUR</currencyCode>
+    <firstName>Sandra</firstName>
+    <lastName>Forsman</lastName>
+  <payment>
+      <paymentMethod>ADN</paymentMethod>
+      <paymentMethodDescription>adyen_cc</paymentMethodDescription>
+      <transactionNo>8535187038850882</transactionNo>
+  </payment>
+  <grandTotal>10.0000</grandTotal>
+  <grandTotalExVat>8.3333333333333</grandTotalExVat>
+  <lines/>
+</credit>
+  <adjustments>
+    <adjustment name="shipping">
+    <unitPriceInclVat>0.0000</unitPriceInclVat>
+    <unitPriceExVat>0.0000</unitPriceExVat>
+  </adjustment>
+    <adjustment name="refund">
+    <unitPriceInclVat>10.0000</unitPriceInclVat>
+    <unitPriceExVat>8.3333333333333</unitPriceExVat>
+  </adjustment>
+  <adjustment name="fee">
+    <unitPriceInclVat>0.0000</unitPriceInclVat>
+    <unitPriceExVat>0</unitPriceExVat>
+  </adjustment>
+</adjustments>
+</nav>
