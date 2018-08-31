@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+    <order>
+        <domain>5</domain>
+        <webOrderNo>prodtest0001</webOrderNo>
+        <orderType>WEB</orderType>
+        <orderDate>2018-08-31</orderDate>
+        <currencyCode>EUR</currencyCode>
+        <firstName>Christoffer</firstName>
+        <lastName>Lindgren</lastName>
+        <payment>
+            <paymentMethod>ADN</paymentMethod>
+            <paymentMethodDescription>adyen_cc</paymentMethodDescription> 
+            <transactionNo>1234567895</transactionNo>
+        </payment>
+        <shipping>
+            <location>EU_ECOM</location>
+            <shippingDescription>DHL Economy</shippingDescription>
+            <shippingMethod>ddp</shippingMethod>
+            <carriercode>DHL_SK</carriercode>
+            <carrierservice>ECON</carrierservice>
+            <shippingPrice>0</shippingPrice>
+        </shipping>
+        <shiptoAddress>
+            <address>
+                <phone>+32493600000</phone>
+                <email>christoffer.lindgren@zoundindustries.com</email>
+                <name>christoffer lindgren</name>
+                <zip>2930</zip>
+                <address1>Augustijnslei 25</address1>
+                <country>BE</country>
+                <city>Brasschaat</city>
+            </address>
+        </shiptoAddress>
+        <grandTotal>49.000</grandTotal>
+        <grandTotalExVat>48.760</grandTotalExVat>
+        <lines>
+            <line>
+                <productNo>04090985</productNo>
+                <itemNo>04090985_NOSIZE</itemNo>
+                <unitPriceInclVat>59.000</unitPriceInclVat>
+                <unitPriceExVat>48.760</unitPriceExVat>
+                <unitVatPercent>21.0000</unitVatPercent>
+                <quantity>1.0000</quantity>
+                <discountAmount>0.000</discountAmount>
+                <lineAmount>59.000</lineAmount>
+                <lineAmountExVat>48.760</lineAmountExVat>
+                <itemDescription>Major II Black</itemDescription>
+            </line>
+        </lines>
+    </order>
+</nav>
