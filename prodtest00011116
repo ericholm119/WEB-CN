@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+<order>
+<domain>4</domain>
+<webOrderNo>prodtest00011116</webOrderNo>
+<orderType>WEB</orderType>
+<orderDate>2018-09-03</orderDate>
+<currencyCode>EUR</currencyCode>
+<firstName>Christoffer</firstName>
+<lastName>Lindgren</lastName>
+<payment>
+<paymentMethod>ADN</paymentMethod>
+<paymentMethodDescription>adyen_cc</paymentMethodDescription>
+<transactionNo>12345678956</transactionNo>
+</payment>
+<shipping>
+<location>EU_ECOM</location>
+<shippingDescription>DHL Express</shippingDescription>
+<shippingMethod>ddp</shippingMethod>
+<carriercode>DHL_SK</carriercode>
+<carrierservice>EXPWW</carrierservice>
+<shippingPrice>0</shippingPrice>
+</shipping>
+<shiptoAddress>
+<address>
+<phone>+32493600000</phone>
+<email>christoffer.lindgren@zoundindustries.com</email>
+<name>christoffer lindgren</name>
+<zip>3524 CH</zip>
+<address1>Opsterland 34</address1>
+<state/>
+<country>NL</country>
+<city>Utrecht</city>
+</address>
+</shiptoAddress>
+<lines>
+<line>
+<productNo>04092112</productNo>
+<itemNo>04092112_NOSIZE</itemNo>
+<unitPriceInclVat>79.0000</unitPriceInclVat>
+<unitPriceExVat>63.2890</unitPriceExVat>
+<unitVatPercent>21.0000</unitVatPercent>
+<lineAmount>79.0</lineAmount>
+<lineAmountExVat>63.289</lineAmountExVat>
+<quantity>1.0000</quantity>
+<itemDescription>Plattan 2 Bluetooth Indigo</itemDescription>
+</line>
+</lines>
+<grandTotal>79.000</grandTotal>
+<grandTotalExVat>63.289</grandTotalExVat>
+</order>
+</nav>
