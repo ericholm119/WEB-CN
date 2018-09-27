@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+  <inventories>
+    <item>
+     <sku>1000020</sku>
+     <location>EU_ECOM</location>
+     <qty>-1</qty>
+  </inventories>
+</nav>
