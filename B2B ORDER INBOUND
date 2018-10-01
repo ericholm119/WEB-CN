@@ -58,6 +58,9 @@
                 <discountAmount>51.06</discountAmount>
                 <lineAmount>47.94</lineAmount>
                 <lineAmountExVat>47.94</lineAmountExVat>
+                    <discountCodes>
+                        <discountCode>shuu</discountCode>
+                    </discountCodes>
                 <itemDescription>Plattan 2 BT Black</itemDescription>
             </line>
         </lines>
