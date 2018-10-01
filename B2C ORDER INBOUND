@@ -60,7 +60,9 @@
         <lineAmount>369</lineAmount>
         <lineAmountExVat>369</lineAmountExVat>
         <quantity>1.0000</quantity>
-        <discountCode/>
+   <discountCodes>     
+        <discountCode>shuu</discountCode>
+   </discountCodes> 
         <itemDescription>KILBURN II BLACK</itemDescription>
      </line>
     </lines>
