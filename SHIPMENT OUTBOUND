@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <nav>
-    <ordershipment>
+    <orderShipment>
       <webOrderNo>1600009413</webOrderNo>
       <status>shipped</status>
       <trackingNo>782479393319</trackingNo>
@@ -15,5 +15,5 @@
         <quantity> 1</quantity>
       </line>
     </lines>
-    </ordershipment>
+    </orderShipment>
 </nav>
