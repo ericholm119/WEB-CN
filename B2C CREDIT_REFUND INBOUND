@@ -18,7 +18,6 @@
   </payment>
   <grandTotal>10.0000</grandTotal>
   <grandTotalExVat>8.3333333333333</grandTotalExVat>
-  <lines/>
 </credit>
   <adjustments>
     <adjustment name="shipping">
@@ -34,4 +33,18 @@
     <unitPriceExVat>0</unitPriceExVat>
   </adjustment>
 </adjustments>
+   <lines>
+      <line>
+        <itemNo>1002632</itemNo>
+        <unitPriceInclVat>369.0000</unitPriceInclVat>
+        <unitPriceExVat>369.0000</unitPriceExVat>
+        <unitVatPercent>0.0000</unitVatPercent>
+        <discountAmount>0.0000</discountAmount>
+        <lineAmount>369</lineAmount>
+        <lineAmountExVat>369</lineAmountExVat>
+        <quantity>1.0000</quantity>
+        <discountCode/>
+        <itemDescription>KILBURN II BLACK</itemDescription>
+     </line>
+    </lines>
 </nav>
