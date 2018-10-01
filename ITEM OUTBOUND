@@ -1,21 +1,24 @@
   <?xml version="1.0" encoding="UTF-8"?>
 
 <nav>
-		<product sku="1001533">
-			<description>STADION TEAM</description>
-			<itemCategory>HEADPHONE</itemCategory>
-			<productGroup>BT_IN-EAR</productGroup>
-			<collection>UE_ACTIVE</collection>
-			<brand>URBANEARS</brand>
-			<season/>
-			<weight>0.21</weight>
-			<itemType>10335</itemType>
-			<netWeight>0.02</netWeight>
-			<grossWeight>0.21</grossWeight>
-			<width>147</width>
-			<height>51</height>
-			<depth>154</depth>
-			<cubage>0</cubage>
-			<ean value="7340055336093" name="EAN13"/>
-		</product>
+<products>
+ <product>
+ <itemNo>1000021</itemNo>
+	<description>STADION TEAM</description>
+	<itemCategory>HEADPHONE</itemCategory>
+	<productGroup>BT_IN-EAR</productGroup>	
+	<collection>UE_ACTIVE</collection>
+	<brand>URBANEARS</brand>
+	<season/>
+	<weight>0.21</weight>
+	<itemType>10335</itemType>
+	<netWeight>0.02</netWeight>
+	<grossWeight>0.21</grossWeight>
+	<width>147</width>
+	<height>51</height>
+	<depth>154</depth>
+	<cubage>0</cubage>
+	<ean value="7340055336093" name="EAN13"/>
+	</product>
+</products>
 </nav>
