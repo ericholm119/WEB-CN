@@ -9,7 +9,7 @@
 	<productGroup>BT_IN-EAR</productGroup>	
 	<collection>UE_ACTIVE</collection>
 	<brand>URBANEARS</brand>
-	<season/>
+	<color></color>
 	<weight>0.21</weight>
 	<itemType>10335</itemType>
 	<netWeight>0.02</netWeight>
@@ -18,7 +18,8 @@
 	<height>51</height>
 	<depth>154</depth>
 	<cubage>0</cubage>
-	<ean value="7340055336093" name="EAN13"/>
+	<ean>7340055336093</>
+	<upc>7340055336093</>
 	</product>
 </products>
 </nav>
