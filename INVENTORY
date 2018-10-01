@@ -6,5 +6,10 @@
      <location>EU_ECOM</location>
      <quantity> 1</quantity>
       </item>
+       <item>
+      <itemNo>1000021</itemNo>
+     <location>SWE E-COM</location>
+     <quantity> 1</quantity>
+      </item>
   </inventories>
 </nav>
