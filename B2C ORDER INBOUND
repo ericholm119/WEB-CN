@@ -35,6 +35,19 @@
     <city>Mumbai</city>
   </address>
   </shiptoAddress>
+   <billtoAddress>
+  <address>
+    <phone>+919326614352</phone>
+    <email>lolrohancool@gmail.com</email>
+    <name>Rohan Patel</name>
+    <zip>400054</zip>
+    <address1>301, 3rd floor, Sea Garden View Bld</address1>
+    <address2>Santacruz, Near Rajesh Khana garden</address2>
+    <state>MH</state>
+    <country>IN</country>
+    <city>Mumbai</city>
+  </address>
+  </billtoAddress>
   <lines>
       <line>
         <itemNo>1002632</itemNo>
