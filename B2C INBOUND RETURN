@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nav>
+  <return>
+    <domain>5</domain>
+    <webOrderNo>11200009770</webOrderNo>
+    <returnOrderNo>11200009770</returnOrderNo>
+    <orderType>WEB</orderType>
+    <orderDate>2018-09-27</orderDate>
+    <currencyCode>USD</currencyCode>
+    <firstName>Rohan</firstName>
+    <lastName>Patel</lastName>
+  <payment>
+    <paymentMethod>ADN</paymentMethod>
+    <paymentMethodDescription>adyen_cc</paymentMethodDescription>
+    <transactionNo>1725380346797243</transactionNo>
+  </payment>
+  <shipping>
+    <location>SWE E-COM</location>
+    <shippingDescription>Fedex - Free</shippingDescription>
+    <shippingMethod>ddu</shippingMethod>
+    <carriercode>FEDEX_SE</carriercode>
+    <carrierservice>FDXIEP</carrierservice>
+    <shippingPrice>0</shippingPrice>
+  </shipping>
+  <shiptoAddress>
+  <address>
+    <phone>+919326614352</phone>
+    <email>lolrohancool@gmail.com</email>
+    <name>Rohan Patel</name>
+    <zip>400054</zip>
+    <address1>301, 3rd floor, Sea Garden View Bld</address1>
+    <address2>Santacruz, Near Rajesh Khana garden</address2>
+    <state>MH</state>
+    <country>IN</country>
+    <city>Mumbai</city>
+  </address>
+  </shiptoAddress>
+   <billtoAddress>
+  <address>
+    <phone>+919326614352</phone>
+    <email>lolrohancool@gmail.com</email>
+    <name>Rohan Patel</name>
+    <zip>400054</zip>
+    <address1>301, 3rd floor, Sea Garden View Bld</address1>
+    <address2>Santacruz, Near Rajesh Khana garden</address2>
+    <state>MH</state>
+    <country>IN</country>
+    <city>Mumbai</city>
+  </address>
+  </billtoAddress>
+  <lines>
+      <line>
+        <itemNo>1002632</itemNo>
+        <unitPriceInclVat>369.0000</unitPriceInclVat>
+        <unitPriceExVat>369.0000</unitPriceExVat>
+        <unitVatPercent>0.0000</unitVatPercent>
+        <discountAmount>0.0000</discountAmount>
+        <lineAmount>369</lineAmount>
+        <lineAmountExVat>369</lineAmountExVat>
+        <quantity>1.0000</quantity>
+        <discountCode/>
+        <itemDescription>KILBURN II BLACK</itemDescription>
+     </line>
+    </lines>
+      <grandTotal>369.0000</grandTotal>
+      <grandTotalExVat>369</grandTotalExVat>
+  </return>
+</nav>
