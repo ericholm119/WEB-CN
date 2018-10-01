@@ -2,7 +2,7 @@
 <nav>
   <inventories>
     <item>
-     <sku>1000020</sku>
+      <itemNo>1000021</itemNo>
      <location>EU_ECOM</location>
      <qty>-1</qty>
   </inventories>
