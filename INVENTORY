@@ -4,6 +4,6 @@
     <item>
       <itemNo>1000021</itemNo>
      <location>EU_ECOM</location>
-     <qty>-1</qty>
+     <quantity> 1</quantity>
   </inventories>
 </nav>
