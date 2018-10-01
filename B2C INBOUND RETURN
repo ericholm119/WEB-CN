@@ -49,7 +49,9 @@
     <city>Mumbai</city>
   </address>
   </billtoAddress>
-  <lines>
+      <grandTotal>369.0000</grandTotal>
+      <grandTotalExVat>369</grandTotalExVat>
+    <lines>
       <line>
         <itemNo>1002632</itemNo>
         <unitPriceInclVat>369.0000</unitPriceInclVat>
@@ -63,7 +65,5 @@
         <itemDescription>KILBURN II BLACK</itemDescription>
      </line>
     </lines>
-      <grandTotal>369.0000</grandTotal>
-      <grandTotalExVat>369</grandTotalExVat>
   </return>
 </nav>
