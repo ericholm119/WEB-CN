@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nav>
+    <returnReceipt>
+      <webOrderNo>1600009413</webOrderNo>
+      <status>return receipt</status>
+      <trackingNo>782479393319</trackingNo>
+      <carrier>FedEx Sweden (Unifaun)</carrier>
+      <carrierCode>FEDEX_SE</carrierCode>
+      <carrierService>FedEx International Economy (Non Docs)</carrierService>
+      <carrierServiceCode>FDXIEP</carrierServiceCode>
+    <lines>
+      <line>
+        <productNo>04092112</productNo>
+        <itemNo>04092112</itemNo>
+        <quantity> 1</quantity>
+      </line>
+    </lines>
+    </returnReceipt>
+</nav>
