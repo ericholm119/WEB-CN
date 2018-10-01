@@ -3,6 +3,6 @@
 <nav>
     <orderStatus>
       <webOrderNo>1600009413</webOrderNo>
-      <status>Confimed Received, Picking, Back order, Cancelled, Finished processing, Complete, Shipped</status>
+      <status>Confimed Received, Picking, Back order, Cancelled, Finished processing, Shipped</status>
      </orderStatus>
 </nav>
