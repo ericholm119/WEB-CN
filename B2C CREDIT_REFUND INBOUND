@@ -9,8 +9,6 @@
     <orderType>WEB</orderType>
     <orderDate>2018-02-15</orderDate>
     <currencyCode>EUR</currencyCode>
-    <firstName>Sandra</firstName>
-    <lastName>Forsman</lastName>
   <payment>
       <paymentMethod>ADN</paymentMethod>
       <paymentMethodDescription>adyen_cc</paymentMethodDescription>
