@@ -8,8 +8,6 @@
     <orderType>WEB</orderType>
     <orderDate>2018-09-27</orderDate>
     <currencyCode>USD</currencyCode>
-    <firstName>Rohan</firstName>
-    <lastName>Patel</lastName>
   <payment>
     <paymentMethod>ADN</paymentMethod>
     <paymentMethodDescription>adyen_cc</paymentMethodDescription>
@@ -19,8 +17,8 @@
     <location>SWE E-COM</location>
     <shippingDescription>Fedex - Free</shippingDescription>
     <shippingMethod>ddu</shippingMethod>
-    <carriercode>FEDEX_SE</carriercode>
-    <carrierservice>FDXIEP</carrierservice>
+    <carrierCode>FEDEX_SE</carrierCode>
+    <carrierService>FDXIEP</carrierService>
     <shippingPrice>0</shippingPrice>
   </shipping>
   <shiptoAddress>
