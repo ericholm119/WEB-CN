@@ -7,8 +7,6 @@
         <customerID>CU4000412</customerID>
         <orderDate>2018-04-12</orderDate>
         <currencyCode>USD</currencyCode>
-        <firstName>Hey</firstName>
-        <lastName>Hey</lastName>
         <payment>
             <paymentMethod>INVOICE</paymentMethod>
             <paymentMethodDescription>B2B Invoice Payment</paymentMethodDescription> 
@@ -17,8 +15,8 @@
             <location>INGRAM_B2C</location>
             <shippingDescription>Fedex - Free – Florida</shippingDescription>
             <shippingMethod>ddp</shippingMethod>
-            <carriercode>FEDEX</carriercode>
-            <carrierservice>FXIE</carrierservice>
+            <carrierCode>FEDEX</carrierCode>
+            <carrierService>FXIE</carrierService>
             <shippingPrice>0</shippingPrice>
         </shipping>
         <shiptoAddress>
