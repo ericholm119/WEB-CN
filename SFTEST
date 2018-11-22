@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+    <order>
+        <!-- general -->
+        <webOrderNo>11200009770</webOrderNo>
+        <customerID/>
+        <globalCustomerID/>
+        <domain>5</domain>
+        <orderType>WEB</orderType>
+        <orderSource/>
+        <currencyCode>USD</currencyCode>
+        <locale/>
+        <firstName>Rohan</firstName>
+        <lastName>Patel</lastName>
+        <email/>
+        <orderDate>2018-09-27</orderDate>
+        <orderStatus/>
+        <orderCompletedDate/>
+        <orderReturnStatus/>
+        <isGuestOrder/>
+        <!-- /general -->
+
+        <!-- amount -->
+        <totalDiscount/>
+        <taxRate/>
+        <tax/>
+        <subtotalExVat/>
+        <subtotal/>
+        <grandTotal>369.0000</grandTotal>
+        <grandTotalExVat>369</grandTotalExVat>
+        <!-- /amount -->
+
+        <!-- shipping -->
+        <shipping>
+            <location>SWE E-COM</location>
+            <shippingMethod>ddu</shippingMethod>
+            <shippingDescription>Fedex - Free</shippingDescription>
+            <carrierCode>FEDEX_SE</carriercode>
+            <carrierService>FDXIEP</carrierservice>
+            <shippingPrice>0</shippingPrice>
+            <deliveryStatus/>
+            <deliveryTime/>
+            <deliveryTimeText/>
+            <trackingID/>
+            <trackingUrl/>
+        </shipping>
+        <!-- /shipping -->
+
+        <!-- delivery -->
+        <shiptoAddress>
+            <address>
+                <name>Rohan Patel</name>
+                <email>lolrohancool@gmail.com</email>
+                <phone>+919326614352</phone>
+                <address1>301, 3rd floor, Sea Garden View Bld</address1>
+                <address2>Santacruz, Near Rajesh Khana garden</address2>
+                <zip>400054</zip>
+                <city>Mumbai</city>
+                <country>IN</country>
+                <state>MH</state>
+            </address>
+        </shiptoAddress>
+        <!-- delivery -->
+
+        <!-- billing -->
+        <billtoAddress>
+            <address>
+                <name>Rohan Patel</name>
+                <email>lolrohancool@gmail.com</email>
+                <phone>+919326614352</phone>
+                <address1>301, 3rd floor, Sea Garden View Bld</address1>
+                <address2>Santacruz, Near Rajesh Khana garden</address2>
+                <zip>400054</zip>
+                <city>Mumbai</city>
+                <country>IN</country>
+                <state>MH</state>
+            </address>
+        </billtoAddress>
+        <!-- billing -->
+
+        <!-- payment -->
+        <payment>
+            <paymentMethod>ADN</paymentMethod>
+            <paymentMethodDescription>adyen_cc</paymentMethodDescription>
+            <transactionNo>1725380346797243</transactionNo>
+            <invoiceNo/>
+            <paymentStatus/>
+            <paymentComments/>
+            <paymentAccount/>
+            <amount/>
+            <currencyCode/>
+        </payment>
+        <!-- payment -->
+
+        <!-- order item -->
+        <lines>
+            <line>
+                <itemDescription>KILBURN II BLACK</itemDescription>
+                <itemModelNo/>
+                <itemNo>1002632</itemNo>
+                <unitPriceInclVat>369.0000</unitPriceInclVat>
+                <unitPriceExVat>369.0000</unitPriceExVat>
+                <quantity>1.0000</quantity>
+                <lineAmount>369</lineAmount>
+                <lineAmountExVat>369</lineAmountExVat>
+                <lineVatAmount/>
+                <unitVatPercent>0.0000</unitVatPercent>
+                <discountAmount>0.0000</discountAmount>
+                <discountAmountExVat/>
+                <discountAmountTaxRate/>
+                <discountAmountTaxAmount/>
+                <discountLineitemTax/>
+                <discountCampaignID/>
+                <discountCodes>
+                    <discountCode>shuu</discountCode>
+                </discountCodes>
+                <isItemPreorder/>
+            </line>
+        </lines>
+        <!-- /order item -->
+    </order>
+</nav>
