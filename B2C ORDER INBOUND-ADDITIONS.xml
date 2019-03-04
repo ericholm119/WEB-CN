@@ -2,18 +2,18 @@
 <nav>
     <order>
         <!-- general -->
-        <webOrderNo>11200009770</webOrderNo>
+        <webOrderNo>SA1902190022</webOrderNo>
         <customerID/>
         <globalCustomerID/>
         <domain>5</domain>
-        <orderType>WEB</orderType>
+        <orderType>WEBB2B</orderType>
         <orderSource/>
-        <currencyCode>USD</currencyCode>
+        <currencyCode>CNY</currencyCode>
         <locale/>
-        <firstName>Rohan</firstName>
-        <lastName>Patel</lastName>
+        <firstName>Marshall JD Flagship Store</firstName>
+        <lastName></lastName>
         <email/>
-        <orderDate>2018-09-27</orderDate>
+        <orderDate>2019-02-19</orderDate>
         <orderStatus/>
         <orderCompletedDate/>
         <orderReturnStatus/>
@@ -26,17 +26,17 @@
         <tax/>
         <subtotalExVat/>
         <subtotal/>
-        <grandTotal>369.0000</grandTotal>
-        <grandTotalExVat>369</grandTotalExVat>
+        <grandTotal>588.0000</grandTotal>
+        <grandTotalExVat>506.90</grandTotalExVat>
         <!-- /amount -->
 
         <!-- shipping -->
         <shipping>
-            <location>SWE E-COM</location>
-            <shippingMethod>ddu</shippingMethod>
-            <shippingDescription>Fedex - Free</shippingDescription>
-            <carrierCode>FEDEX_SE</carriercode>
-            <carrierService>FDXIEP</carrierservice>
+            <location>V00009</location>
+            <shippingMethod>ddp</shippingMethod>
+            <shippingDescription>DEFAULT</shippingDescription>
+            <carrierCode>DEFAULT</carriercode>
+            <carrierService>DEFAULT</carrierservice>
             <shippingPrice>0</shippingPrice>
             <deliveryStatus/>
             <deliveryTime/>
@@ -65,24 +65,24 @@
         <!-- billing -->
         <billtoAddress>
             <address>
-                <name>Rohan Patel</name>
-                <email>lolrohancool@gmail.com</email>
+                <name>Marshall JD Flagship Store</name>
+                <email>JDflagshipstore@gmail.com</email>
                 <phone>+919326614352</phone>
-                <address1>301, 3rd floor, Sea Garden View Bld</address1>
-                <address2>Santacruz, Near Rajesh Khana garden</address2>
-                <zip>400054</zip>
-                <city>Mumbai</city>
-                <country>IN</country>
-                <state>MH</state>
+                <address1>DEFAULT</address1>
+                <address2>DEFAULT</address2>
+                <zip>DEFAULT/zip>
+                <city>DEFAULT</city>
+                <country>CN</country>
+                <state>DEFAULT</state>
             </address>
         </billtoAddress>
         <!-- billing -->
 
         <!-- payment -->
         <payment>
-            <paymentMethod>ADN</paymentMethod>
-            <paymentMethodDescription>adyen_cc</paymentMethodDescription>
-            <transactionNo>1725380346797243</transactionNo>
+            <paymentMethod>20D</paymentMethod>
+            <paymentMethodDescription>WEB</paymentMethodDescription>
+            <transactionNo>DEFAULT</transactionNo>
             <invoiceNo/>
             <paymentStatus/>
             <paymentComments/>
@@ -97,14 +97,14 @@
             <line>
                 <itemDescription>KILBURN II BLACK</itemDescription>
                 <itemModelNo/>
-                <itemNo>1002632</itemNo>
-                <unitPriceInclVat>369.0000</unitPriceInclVat>
-                <unitPriceExVat>369.0000</unitPriceExVat>
+                <itemNo>1000526</itemNo>
+                <unitPriceInclVat>588.0000</unitPriceInclVat>
+                <unitPriceExVat>506.9000</unitPriceExVat>
                 <quantity>1.0000</quantity>
-                <lineAmount>369</lineAmount>
-                <lineAmountExVat>369</lineAmountExVat>
+                <lineAmount>588</lineAmount>
+                <lineAmountExVat>506.90</lineAmountExVat>
                 <lineVatAmount/>
-                <unitVatPercent>0.0000</unitVatPercent>
+                <unitVatPercent>16.0000</unitVatPercent>
                 <discountAmount>0.0000</discountAmount>
                 <discountAmountExVat/>
                 <discountAmountTaxRate/>
@@ -112,7 +112,7 @@
                 <discountLineitemTax/>
                 <discountCampaignID/>
                 <discountCodes>
-                    <discountCode>shuu</discountCode>
+                    <discountCode></discountCode>
                 </discountCodes>
                 <isItemPreorder/>
             </line>
