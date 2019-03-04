@@ -49,15 +49,15 @@
         <!-- delivery -->
         <shiptoAddress>
             <address>
-                <name>Rohan Patel</name>
-                <email>lolrohancool@gmail.com</email>
+                <name>Marshall JD Flagship Store</name>
+                <email>JDflagshipstore@gmail.com</email>
                 <phone>+919326614352</phone>
-                <address1>301, 3rd floor, Sea Garden View Bld</address1>
-                <address2>Santacruz, Near Rajesh Khana garden</address2>
-                <zip>400054</zip>
-                <city>Mumbai</city>
-                <country>IN</country>
-                <state>MH</state>
+                <address1>DEFAULT</address1>
+                <address2>DEFAULT</address2>
+                <zip>DEFAULT</zip>
+                <city>DEFAULT</city>
+                <country>CN</country>
+                <state>DEFAULT</state>
             </address>
         </shiptoAddress>
         <!-- delivery -->
@@ -95,7 +95,7 @@
         <!-- order item -->
         <lines>
             <line>
-                <itemDescription>KILBURN II BLACK</itemDescription>
+                <itemDescription>MODE EQ BLACK AND BRASS</itemDescription>
                 <itemModelNo/>
                 <itemNo>1000526</itemNo>
                 <unitPriceInclVat>588.0000</unitPriceInclVat>
