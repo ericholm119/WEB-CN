@@ -3,7 +3,7 @@
     <order>
         <!-- general -->
         <webOrderNo>SA1902190022</webOrderNo>
-        <customerID/>
+        <customerID>CU3000003<customerID/>
         <globalCustomerID/>
         <domain>5</domain>
         <orderType>WEBB2B</orderType>
@@ -19,17 +19,21 @@
         <orderReturnStatus/>
         <isGuestOrder/>
         <!-- /general -->
-
-        <!-- amount -->
-        <totalDiscount/>
-        <taxRate/>
-        <tax/>
-        <subtotalExVat/>
-        <subtotal/>
-        <grandTotal>588.0000</grandTotal>
-        <grandTotalExVat>506.90</grandTotalExVat>
-        <!-- /amount -->
-
+            
+        <!-- payment -->
+        <payment>
+            <paymentMethod>WEB</paymentMethod>
+            <paymentMethodDescription>WEB</paymentMethodDescription>
+            <transactionNo></transactionNo>
+            <invoiceNo/>
+            <paymentStatus/>
+            <paymentComments/>
+            <paymentAccount/>
+            <amount/>
+            <currencyCode/>
+        </payment>
+        <!-- payment -->
+            
         <!-- shipping -->
         <shipping>
             <location>V00009</location>
@@ -49,7 +53,7 @@
         <!-- delivery -->
         <shiptoAddress>
             <address>
-                <name>Marshall JD Flagship Store</name>
+                <name>京东-marshall影音旗舰店</name>
                 <email>JDflagshipstore@gmail.com</email>
                 <phone>+919326614352</phone>
                 <address1>DEFAULT</address1>
@@ -65,7 +69,7 @@
         <!-- billing -->
         <billtoAddress>
             <address>
-                <name>Marshall JD Flagship Store</name>
+                <name>京东-marshall影音旗舰店</name>
                 <email>JDflagshipstore@gmail.com</email>
                 <phone>+919326614352</phone>
                 <address1>DEFAULT</address1>
@@ -77,20 +81,6 @@
             </address>
         </billtoAddress>
         <!-- billing -->
-
-        <!-- payment -->
-        <payment>
-            <paymentMethod>20D</paymentMethod>
-            <paymentMethodDescription>WEB</paymentMethodDescription>
-            <transactionNo>DEFAULT</transactionNo>
-            <invoiceNo/>
-            <paymentStatus/>
-            <paymentComments/>
-            <paymentAccount/>
-            <amount/>
-            <currencyCode/>
-        </payment>
-        <!-- payment -->
 
         <!-- order item -->
         <lines>
@@ -118,5 +108,15 @@
             </line>
         </lines>
         <!-- /order item -->
+            
+        <!-- amount -->
+        <totalDiscount/>
+        <taxRate/>
+        <tax/>
+        <subtotalExVat/>
+        <subtotal/>
+        <grandTotal>588.0000</grandTotal>
+        <grandTotalExVat>506.90</grandTotalExVat>
+        <!-- /amount -->
     </order>
 </nav>
